@@ -1,0 +1,10 @@
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_6\bin\Debug\Projeto_6.exe.config
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_6\bin\Debug\Projeto_6.exe
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_6\bin\Debug\Projeto_6.pdb
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_6\obj\Debug\Projeto_6.csproj.AssemblyReference.cache
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_6\obj\Debug\Projeto_6.Form1.resources
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_6\obj\Debug\Projeto_6.Properties.Resources.resources
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_6\obj\Debug\Projeto_6.csproj.GenerateResource.cache
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_6\obj\Debug\Projeto_6.csproj.CoreCompileInputs.cache
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_6\obj\Debug\Projeto_6.exe
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_6\obj\Debug\Projeto_6.pdb

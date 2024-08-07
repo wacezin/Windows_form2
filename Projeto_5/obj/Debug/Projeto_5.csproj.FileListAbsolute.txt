@@ -1,0 +1,10 @@
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_5\bin\Debug\Projeto_5.exe.config
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_5\bin\Debug\Projeto_5.exe
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_5\bin\Debug\Projeto_5.pdb
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_5\obj\Debug\Projeto_5.csproj.AssemblyReference.cache
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_5\obj\Debug\Projeto_5.Form_calculadora.resources
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_5\obj\Debug\Projeto_5.Properties.Resources.resources
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_5\obj\Debug\Projeto_5.csproj.GenerateResource.cache
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_5\obj\Debug\Projeto_5.csproj.CoreCompileInputs.cache
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_5\obj\Debug\Projeto_5.exe
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_5\obj\Debug\Projeto_5.pdb

@@ -1,0 +1,10 @@
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_3\bin\Debug\Projeto_3.exe.config
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_3\bin\Debug\Projeto_3.exe
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_3\bin\Debug\Projeto_3.pdb
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_3\obj\Debug\Projeto_3.csproj.AssemblyReference.cache
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_3\obj\Debug\Projeto_3.Properties.Resources.resources
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_3\obj\Debug\Projeto_3.csproj.GenerateResource.cache
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_3\obj\Debug\Projeto_3.csproj.CoreCompileInputs.cache
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_3\obj\Debug\Projeto_3.exe
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_3\obj\Debug\Projeto_3.pdb
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_3\obj\Debug\Projeto_3.Form_Calc.resources

@@ -1,0 +1,10 @@
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_4.2\bin\Debug\Projeto_4.2.exe.config
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_4.2\bin\Debug\Projeto_4.2.exe
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_4.2\bin\Debug\Projeto_4.2.pdb
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_4.2\obj\Debug\Projeto_4.2.csproj.AssemblyReference.cache
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_4.2\obj\Debug\Projeto_4._2.Form1.resources
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_4.2\obj\Debug\Projeto_4._2.Properties.Resources.resources
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_4.2\obj\Debug\Projeto_4.2.csproj.GenerateResource.cache
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_4.2\obj\Debug\Projeto_4.2.csproj.CoreCompileInputs.cache
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_4.2\obj\Debug\Projeto_4.2.exe
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_4.2\obj\Debug\Projeto_4.2.pdb

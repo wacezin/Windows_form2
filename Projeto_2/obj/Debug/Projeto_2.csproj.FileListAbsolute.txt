@@ -1,0 +1,10 @@
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_2\bin\Debug\Projeto_2.exe.config
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_2\bin\Debug\Projeto_2.exe
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_2\bin\Debug\Projeto_2.pdb
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_2\obj\Debug\Projeto_2.csproj.AssemblyReference.cache
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_2\obj\Debug\Projeto_2.Fomr_Saudacao.resources
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_2\obj\Debug\Projeto_2.Properties.Resources.resources
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_2\obj\Debug\Projeto_2.csproj.GenerateResource.cache
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_2\obj\Debug\Projeto_2.csproj.CoreCompileInputs.cache
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_2\obj\Debug\Projeto_2.exe
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_2\obj\Debug\Projeto_2.pdb
