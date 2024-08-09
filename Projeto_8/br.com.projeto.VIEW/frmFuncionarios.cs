@@ -112,5 +112,21 @@ namespace Projeto_8.br.com.projeto.VIEW
             // 3º PASSO - RECARREGAR O DATAGRID
             dgconsulta_funcionario.DataSource = dao.listarFuncionario();
         }
+
+        private void button_excluir_Click(object sender, EventArgs e)
+        {
+            Funcionarios obj = new Funcionarios();
+            // 1º PASSO - RECEBER OS DADOS
+            obj.Codigo = int.Parse(textBox_cod.Text);
+
+
+            // 2º PASSO - CRIAR OBJETO E CHAMAR O METODO
+            FuncionarioDAO dao = new FuncionarioDAO();
+            dao.excluirFuncionario(obj);
+
+            // 3º PASSO - RECARREGAR O DATAGRID
+            dgconsulta_funcionario.DataSource = dao.listarFuncionario();
+            tab_funcionarios.SelectedTab = tabPage_consulta;
+        }
     }
 }
