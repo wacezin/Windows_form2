@@ -49,7 +49,14 @@ namespace Projeto_8.br.com.projeto.VIEW
             FuncionarioDAO dao = new FuncionarioDAO();
             dao.cadastrarFuncionario(obj);
 
-            //dgconsulta_funcionario.DataSource = dao.listarCliente();
+            dgconsulta_funcionario.DataSource = dao.listarFuncionario();
+        }
+
+        private void frmFuncionarios_Load(object sender, EventArgs e)
+        {
+            FuncionarioDAO dao = new FuncionarioDAO();
+
+            dgconsulta_funcionario.DataSource = dao.listarFuncionario();
         }
     }
 }
