@@ -41,3 +41,4 @@ C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_8\obj\Debug\Projeto_8.cs
 C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_8\obj\Debug\Projeto_8.csproj.CopyComplete
 C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_8\obj\Debug\Projeto_8.exe
 C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_8\obj\Debug\Projeto_8.pdb
+C:\Users\taina.ksouza\source\repos\Windows_form\Projeto_8\obj\Debug\Projeto_8.br.com.projeto.VIEW.frmFuncionarios.resources
