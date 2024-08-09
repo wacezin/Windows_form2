@@ -105,6 +105,7 @@
             this.button_editar.TabIndex = 11;
             this.button_editar.Text = "Editar";
             this.button_editar.UseVisualStyleBackColor = false;
+            this.button_editar.Click += new System.EventHandler(this.button_editar_Click);
             // 
             // button_excluir
             // 
@@ -562,8 +563,9 @@
             this.dgconsulta_funcionario.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgconsulta_funcionario.Location = new System.Drawing.Point(14, 52);
             this.dgconsulta_funcionario.Name = "dgconsulta_funcionario";
-            this.dgconsulta_funcionario.Size = new System.Drawing.Size(478, 213);
+            this.dgconsulta_funcionario.Size = new System.Drawing.Size(655, 213);
             this.dgconsulta_funcionario.TabIndex = 8;
+            this.dgconsulta_funcionario.CellContentDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgconsulta_funcionario_CellContentDoubleClick);
             // 
             // button_pesquisarConsulta
             // 
