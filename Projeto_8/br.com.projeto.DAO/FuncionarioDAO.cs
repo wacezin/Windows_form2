@@ -170,5 +170,42 @@ namespace Projeto_8.br.com.projeto.DAO
             }
         }
         #endregion
+
+        #region Efetuar Login
+
+        public bool efetuarLogin(string email, string senha)
+        {
+            try
+            {
+                // 1º PASSO - DEFINIR COMANDO SQL
+                string sql = @"SELECT * FROM tb_funcionarios WHERE email=@email and senha=@senha";
+
+                // 2º PASSO - ORGANIZAR O COMANDO SQL
+                MySqlCommand executarcmd = new MySqlCommand(sql, conexao);
+                executarcmd.Parameters.AddWithValue("@email", email);
+                executarcmd.Parameters.AddWithValue("@senha", senha);
+
+                // 3º PASSO - ABRIR CONEXAO E EXECUTAR O COMANDO SQL
+                conexao.Open();
+                MySqlDataReader reader = executarcmd.ExecuteReader();
+
+                if(reader.Read())
+                {
+                    MessageBox.Show("Login realizado com sucesso!");
+                    return true;
+                }
+                else
+                {
+                    MessageBox.Show("E-mail ou senha incorretos!");
+                    return false;
+                }
+            }
+            catch (Exception erro)
+            {
+                MessageBox.Show("Aconteceu o erro" + erro);
+                return false;
+            }
+        }
+        #endregion
     }
 }
